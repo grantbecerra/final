@@ -140,7 +140,7 @@ header a:hover{
 /* Sidebar */
 aside#sidebar{
   float:right;
-  width:30%;
+  width:45%;
   margin-top:10px;
 }
 
@@ -152,7 +152,7 @@ aside#sidebar .quote input, aside#sidebar .quote textarea{
 /* Main-col */
 article#main-col{
   float:left;
-  width:65%;
+  width:55%;
 }
 
 /* Services */
