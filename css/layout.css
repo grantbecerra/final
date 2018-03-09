@@ -208,3 +208,18 @@ footer{
   #slideshow iframe
   align: center;
 }
+
+/* div */
+.Words{
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 150px;
+  padding-right: 150px;
+}
+
+.center{
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 150px;
+  padding-right: 150px;
+}
