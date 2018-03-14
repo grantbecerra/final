@@ -91,6 +91,7 @@ header a:hover{
 }
 
 #frontimage h1{
+  color: ;
   margin-top:100px;
   font-size:55px;
   margin-bottom:10px;
@@ -206,16 +207,14 @@ footer{
     margin-bottom:5px;
 
   }
-  #slideshow iframe
-  align: center;
-}
 
-/* div */
+/* Contact page words */
 .Words{
+  font-size: 17px;
   margin-left: auto;
   margin-right: auto;
-  padding-left: 150px;
-  padding-right: 150px;
+  padding-left: 320px;
+  padding-right: 320px;
 }
 
 .center{
